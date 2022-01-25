@@ -63,7 +63,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
 
 ## Contribute to our Portfolio!
 
-This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/urbansociety). Feel free to contribute!
+This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/testbedsy). Feel free to contribute!
 
 <script>
 $(document).ready(function() {
