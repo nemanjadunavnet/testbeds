@@ -8,4 +8,4 @@ Browse our [**Catalogue here**](./catalogue.html).
 
 ## Contribute to our Portfolio!
 
-This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/urbansociety). Feel free to contribute!
+This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/testbeds). Feel free to contribute!

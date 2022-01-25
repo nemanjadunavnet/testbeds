@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AIOTI Urban Society Portfolio
+title: AIOTI Testbeds Portfolio
 ---
 
 <head>
@@ -27,7 +27,7 @@ Browse the solutions provided by AIOTI members in the table below.
 If you need to return to the main page, just follow [**this link**](./index.html).
 
 
-### Catalogue of IoT Solutions focused on Urban Society Goals
+### Catalogue of IoT Solutions focused on Testbeds Goals
 
 <table id="catalogue" class="display" style="width: 100%">
     <thead>
@@ -63,7 +63,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
 
 ## Contribute to our Portfolio!
 
-This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/testbedsy). Feel free to contribute!
+This page is an [open-source project available on GitHub](https://github.com/AIOTIEU/testbeds). Feel free to contribute!
 
 <script>
 $(document).ready(function() {
