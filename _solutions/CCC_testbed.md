@@ -7,7 +7,7 @@ city_country: Ottawa, Canada
 domains: Cross-domain, climate action
 use-cases: Energy, Agriculture, Land use, Industry, Finance, Building, Transportation
 contact: climatechaincoalition@gmail.com
-license: n.a.
+license: -
 partner_access: local and remote, based on a specific agreement
 testbed_usage: use-case
 
