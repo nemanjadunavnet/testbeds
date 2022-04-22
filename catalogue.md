@@ -54,6 +54,14 @@ If you need to return to the main page, just follow [**this link**](./index.html
       <tr>
        <td colspan="6"><strong>Description:</strong> {{ solution.description}}</td>
       </tr>
+      <tr>
+        <td colspan="6"><strong>Concept:</strong> {{ solution.concept}}</td>
+        <td colspan="6"><strong>Technology</strong>: {{ solution.technology}}</td>
+      </tr>
+        <tr>
+            <td colspan="6"><strong>Hardware</strong> {{ solution.hardware}}</td>
+            <td colspan="6"><strong>Software</strong> {{ solution.software}}</td>
+      </tr>
       {% endfor %}
     </tbody>
   <!-- 
