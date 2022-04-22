@@ -12,17 +12,13 @@ partner_access: local and remote, based on a specific agreement
 testbed_usage: use-case
 
 ---
-
-
 description:
 
 ---
-
 concept: tt
 technology:tt
 
 ---
-
 hardware: On-Premises, Edge and Cloud combined
 software: Legacy IT and IoT platforms combined with different DLT protocols
 
