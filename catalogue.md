@@ -50,7 +50,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}"/>{{ solution.provider}},{{ solution.city_country}}</a></td>
         <td>{{ solution.domains}}</td>
         <td>{{ solution.use-cases}}</td>
-        <td>{{ solution.licence}}, {{ solution.partner_access}}</td>
+        <td>{{ solution.license}}, {{ solution.partner_access}}</td>
         <td>{{ solution.testbed_stage}}</td>
       </tr>
       <tr>
