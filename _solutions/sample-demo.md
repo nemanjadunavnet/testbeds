@@ -5,15 +5,15 @@ testbed_url: url
 provider_logo: logos/ccc.png
 city_country: location
 domains: european competitiveness domains, Agriculture, Energy, Transport, Manufacturing, Space, Society, Health
-use-cases: Energy, Agriculture, Land use, Industry, Finance, Building, Transportation
-contact: climatechaincoalition@gmail.com
-license: not available
-partner_access: local and remote, based on a specific agreement
-testbed_usage: use-case
-description: The CCC Testbed series 
-concept: The AIOTI DLT 1.06 CCC Testbeds are 
-technology: Convergence of IoT, DLT, AI, Digital Twins, and legacy IT components
-hardware: On-Premises, Edge and Cloud combined
-software: Legacy IT and IoT platforms combined with different DLT protocols
+use-cases: use-cases supported
+contact: e-mail and name
+license: type of licensing, for instance, open, MIT, Eclipse. If there are IPRs, please state so.
+partner_access: local and remote, based on a specific agreement, etc.
+testbed_stage: use-case, proof-of-concept, deployed testbed
+description: summary, brief overview on the testbed and its purpose 
+concept: key technological blocks supported 
+technology: novel technology components
+hardware: brief list of most relevant hardware
+software: brief list of the most relevant software
 
 ---
