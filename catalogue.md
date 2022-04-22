@@ -37,10 +37,9 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <th>Domains</th>
         <th>Use-cases</th>
         <th>Access</th>
-        <th>Testbed stage</th>
-    
+        <th>Testbed stage</th> 
+     </tr>
     </thead>
-
     <tbody>
       <!--For loop that iterates over markdown frontmatter in _skus folder-->
       {% for solution in site.solutions %}
@@ -52,8 +51,6 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <td>{{ solution.license}}, {{ solution.partner_access}}</td>
         <td>{{ solution.testbed_stage}}</td>
       </tr>
-     
-
       {% endfor %}
     </tbody>
   <!-- 
