@@ -53,10 +53,10 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <td>{{ solution.testbed_stage}}</td>
       </tr>
       <tr>
-       <td><strong>Description: {{ solution.description}}</strong></td>
+       <td><strong>Description:</strong> {{ solution.description}}</td>
       </tr>
         <tr>
-            <td><strong>Concept: {{ solution.concept}}</strong></td>
+            <td><strong>Concept:</strong> {{ solution.concept}}</td>
             <td><strong>Technology</strong>: {{ solution.technology}}</td>
       </tr>
         <tr>
