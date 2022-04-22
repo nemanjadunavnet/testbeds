@@ -9,7 +9,7 @@ use-cases: Energy, Agriculture, Land use, Industry, Finance, Building, Transport
 contact: climatechaincoalition@gmail.com
 license: not available
 partner_access: local and remote, based on a specific agreement
-testbed_usage: use-case
+testbed_stage: use-case
 description: The CCC Testbed series 
 concept: The AIOTI DLT 1.06 CCC Testbeds are 
 technology: Convergence of IoT, DLT, AI, Digital Twins, and legacy IT components
