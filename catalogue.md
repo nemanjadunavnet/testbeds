@@ -40,8 +40,16 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <th>Testbed stage</th>
       </tr>
         <tr>
-            <th>Description</th>
-            </tr>
+        <th>Description</th>
+        </tr>
+         <tr>
+        <th>Concept</th>
+        <th>Technology</th>
+        </tr>
+        <tr>
+        <th>Hardware</th>
+        <th>Software</th>
+        </tr>
     </thead>
 
     <tbody>
