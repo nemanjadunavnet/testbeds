@@ -10,7 +10,7 @@ contact: climatechaincoalition@gmail.com
 license: not available
 partner_access: local and remote, based on a specific agreement
 testbed_stage: use-case
-description: 
+description: The CCC Testbed series are set to demonstrate practical use cases from the Climate Chain Coalition, a global multi-stakeholder membership of over 270 organizations in over 50 countries (CCC Members). 
 technology: Convergence of IoT, DLT, AI, Digital Twins, and legacy IT components
 hardware: On-Premises, Edge and Cloud combined
 software: Legacy IT and IoT platforms combined with different DLT protocols
