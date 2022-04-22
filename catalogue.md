@@ -27,7 +27,7 @@ Browse the solutions provided by AIOTI members in the table below.
 If you need to return to the main page, just follow [**this link**](./index.html).
 
 
-### Catalogue of IoT Solutions focused on Testbeds Goals
+### AIOTI IG Testbeds Catalogue
 
 <table id="catalogue" class="display" style="width: 100%">
     <thead>
