@@ -38,18 +38,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <th>Use-cases</th>
         <th>Access</th>
         <th>Testbed stage</th>
-      </tr>
-        <tr>
-        <th>Description</th>
-        </tr>
-         <tr>
-        <th>Concept</th>
-        <th>Technology</th>
-        </tr>
-        <tr>
-        <th>Hardware</th>
-        <th>Software</th>
-        </tr>
+    
     </thead>
 
     <tbody>
@@ -63,17 +52,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <td>{{ solution.license}}, {{ solution.partner_access}}</td>
         <td>{{ solution.testbed_stage}}</td>
       </tr>
-      <tr>
-       <td><strong>Description:</strong> {{ solution.description}}</td>
-      </tr>
-        <tr>
-            <td><strong>Concept:</strong> {{ solution.concept}}</td>
-            <td><strong>Technology</strong>: {{ solution.technology}}</td>
-      </tr>
-        <tr>
-            <td><strong>Hardware</strong> {{ solution.hardware}}</td>
-            <td><strong>Software</strong> {{ solution.software}}</td>
-      </tr>
+     
 
       {% endfor %}
     </tbody>
