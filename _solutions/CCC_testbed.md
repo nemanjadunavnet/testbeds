@@ -18,11 +18,12 @@ description:
 
 ---
 
-concept:
-technology:
+concept: tt
+technology:tt
 
 ---
 
 hardware: On-Premises, Edge and Cloud combined
 software: Legacy IT and IoT platforms combined with different DLT protocols
 
+---
