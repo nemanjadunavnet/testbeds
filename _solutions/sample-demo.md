@@ -1,10 +1,10 @@
 ---
-short_name: CCC
-name: Climate Coalition Change
-testbed_url: https://www.climatechaincoalition.io
+short_name: acronym
+name: title
+testbed_url: url
 provider_logo: logos/ccc.png
-city_country: Ottawa, Canada
-domains: Cross-domain, climate action
+city_country: location
+domains: european competitiveness domains, Agriculture, Energy, Transport, Manufacturing, Space, Society, Health
 use-cases: Energy, Agriculture, Land use, Industry, Finance, Building, Transportation
 contact: climatechaincoalition@gmail.com
 license: not available
