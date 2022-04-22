@@ -10,7 +10,7 @@ contact: chris.patient at imi-precision.com, francesca.dematteis at imi-precisio
 license: IP protected, patent pending 
 partner_access: local and remote, based on a specific agreement
 testbed_stage: use-case
-description: and/or
+description: pneumatic smart valve island with integrated sensing capabilities, edge data processing; local (on-local-display and/or PLC) and/or remote data visualization, including on the cloud. Currently, product in prototype phase; physical demo rig available. Patent pending
 
 
 concept: Use case for smart pneumatics, starting from the very heart of a pneumatics system, thus the valve island. Test & learn about AI, machine learning, 5G, wireless technology, APIs, remote data visualization, including on the cloud. Currently, product in prototype phase; physical demo rig available. 
