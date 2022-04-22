@@ -10,17 +10,9 @@ contact: climatechaincoalition@gmail.com
 license: -
 partner_access: local and remote, based on a specific agreement
 testbed_usage: use-case
-
----
 description: The CCC Testbed series 
-
----
 concept: The AIOTI DLT 1.06 CCC Testbeds are 
-
 technology:Convergence of IoT, DLT, AI, Digital Twins, and legacy IT components
-
----
 hardware: On-Premises, Edge and Cloud combined
 software: Legacy IT and IoT platforms combined with different DLT protocols
-
 ---
