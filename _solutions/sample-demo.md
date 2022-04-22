@@ -15,3 +15,7 @@ testbed_stage: Use-case, proof-of-concept, deployed testbed
 
 Description:
 AIOTI IG Testbeds demo for a new testbed to be added to the catalogue
+---
+Key Concepts and Technology
+---
+Key Technological Components
