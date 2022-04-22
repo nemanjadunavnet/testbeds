@@ -36,7 +36,6 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <th>Provider</th>
         <th>Domains</th>
         <th>Use-cases</th>
-       
         <th>Access</th>
         <th>Testbed stage</th>
       </tr>
