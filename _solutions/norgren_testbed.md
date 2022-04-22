@@ -6,7 +6,7 @@ provider_logo: logos/norgren.png
 city_country: Birmigham, United Kingdom
 domains: Manufacturing
 use-cases: Any OEM machine
-contact: chris.patient@imi-precision.com, francesca.dematteis@imi-precision.com
+contact: 
 license: IP protected, patent pending 
 partner_access: local and remote, based on a specific agreement
 testbed_stage: use-case
