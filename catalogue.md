@@ -39,6 +39,9 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <th>Access</th>
         <th>Testbed stage</th>
       </tr>
+        <tr>
+            <th>Description</th>
+            </tr>
     </thead>
 
     <tbody>
