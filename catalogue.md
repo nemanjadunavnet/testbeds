@@ -33,9 +33,10 @@ If you need to return to the main page, just follow [**this link**](./index.html
     <thead>
       <tr>
         <th>Name</th>
+        <th>Provider</th>
         <th>Domains</th>
         <th>Use-cases</th>
-        <th>Provider</th>
+       
         <th>Access</th>
         <th>Testbed stage</th>
       </tr>
@@ -45,10 +46,10 @@ If you need to return to the main page, just follow [**this link**](./index.html
       <!--For loop that iterates over markdown frontmatter in _skus folder-->
       {% for solution in site.solutions %}
       <tr>
-        <td><strong><a href="{{ solution.link }}">{{ solution.short_name }}, {{ solution.name }}</a></strong></td>
+        <td><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}, {{ solution.name }}</a></strong></td>
+        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}"/>{{ solution.provider}},{{ solution.city_country}}</a></td>
         <td>{{ solution.domains}}</td>
         <td>{{ solution.use-cases}}</td>
-        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}"/>{{ solution.provider}},{{ solution.city_country}}</a></td>
         <td>{{ solution.licence}}, {{ solution.partner_access}}</td>
         <td>{{ solution.testbed_stage}}</td>
       </tr>
