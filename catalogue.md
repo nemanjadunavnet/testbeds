@@ -52,6 +52,18 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <td>{{ solution.licence}}, {{ solution.partner_access}}</td>
         <td>{{ solution.testbed_stage}}</td>
       </tr>
+      <tr>
+       <td><strong>Description: {{ solution.description}}</strong></td>
+      </tr>
+        <tr>
+            <td><strong>Concept: {{ solution.concept}}</strong></td>
+            <td><strong>Technology</strong>: {{ solution.technology}}</td>
+      </tr>
+        <tr>
+            <td><strong>Hardware</strong> {{ solution.hardware}}</td>
+            <td><strong>Software</strong> {{ solution.software}}</td>
+      </tr>
+
       {% endfor %}
     </tbody>
   <!-- 
