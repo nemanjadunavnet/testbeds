@@ -8,5 +8,7 @@ domains: Smart cities, climate action, community building
 use-cases: Community sustainability development, supported by IoT solutions (CommSusDev)
 contact: erik@dewaardefabriek.nl
 license: n.a.
+partner_access: Yes
+testbed_stage: proof of concept
 
 ---
