@@ -9,7 +9,7 @@ use-cases: Production monitoring, programming, and optimization; Asset managemen
 contact: Giacomo Tavola giacomo.tavola@polimi.it, Walter Quadrini walter.quadrini@polimi.it
 license: Eclipse, Apache, OPC
 partner_access: Yes
-testbed_stage: Testbeds
+testbed_stage: Testbed
 description: Industry 4.0 Lab is aiming to create a tangible physical entity where the research activity in the innovative manufacturing management and planning approaches can be carried out in conjunction with a practical implementation in a “real-like” environment. Key components implemented include a fabrication line based on the I4 0 paradigm and open architectures, including robotic stations, collaborative robot and AGVs. Implemented scenarios encompass various research areas as production monitoring, programming and optimization, asset management and maintenance, energy consumption optimization, circular economy, VR/AR for empowered operators, 5G technologies.
 concept: AI, AR, and collaborative robotics supporting application development for advanced sustainable manufacturing; demonstration of 5G technologies adoption in manufacturing.
 technology: AR; IIoT communication protocols; ML for MFG; LTE/5G
