@@ -21,9 +21,7 @@ title: AIOTI Testbeds Portfolio
       </script>
   </head>
 
-Browse the solutions provided by AIOTI members in the table below.
-
-If you need to return to the main page, just follow [**this link**](./index.html).
+Browse the solutions provided by AIOTI members in the table.
 
 
 ### AIOTI IG Testbeds Catalogue
