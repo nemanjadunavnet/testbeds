@@ -8,7 +8,7 @@ domains: Smart Cities, Mobility
 use-cases: Real time traffic data in Thessaloniki (cars and trains); fleet management, etc.
 contact: jose@certh.gr
 license: Microsoft 365, PowerBI, Visual Studio 2019 Enterprise, SQL Server 2017 Enterprise, Hyper-V Manager, Android Studio, Visum, SUMO, MATLAB and others depending on the activities
-partner_access: Yes
+partner_access: feasible
 testbed_stage: Testbeds
 description: Thessaloniki Smart Mobility Living Lab aggregates data from its local eco system in Thessaloniki via different types of sources. Through the fusion of the various datasets, new technologies, mobility services and prototype applications for passengers and vehicles are implemented.
 concept: Data collection and fusion, Data storage and processing, Data Analysis, models, and visualization simulation. Mobility services and prototype applications for passengers and freight vehicles
