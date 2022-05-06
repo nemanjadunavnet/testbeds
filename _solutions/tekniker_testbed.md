@@ -6,7 +6,7 @@ provider_logo: logos/tekniker.png
 city_country: Gipuzkoa, Spain
 domains: Manifacturing
 use-cases: Manufacturing, Tribology
-contact: Roberto González Velázquez <a href="mailto:roberto.gonzalez@tekniker.es">roberto.gonzalez@tekniker.es
+contact: Roberto González Velázquez, roberto.gonzalez@tekniker.es
 license: Contact Tekniker
 partner_access: Yes
 testbed_stage: Testbeds
