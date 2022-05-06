@@ -10,6 +10,9 @@ contact: Dr. Wolfgang Felber, wolfgang.felber@iis.fraunhofer.de; Nicolas Witt, n
 license: Depends on the case – contact for further information.
 partner_access: Yes
 testbed_stage: Testbeds
+description: In the “L.I.N.K. Test and Application Center” at its Nuremberg location, Fraunhofer IIS provides a realistic and application-oriented environment for developing, demonstrating, and evaluating pioneering technologies and applications in the fields of positioning, identification, navigation, and communication. It contains of various reference positioning systems including a 5G campus network to evaluate new communication and localization aspects of actual standardization discussion.
+concept: Positioning for IIoT; indoor/outdoor/seamless positioning for logistic applications (including a truck drive through and loading ramps.
 
+software: PTP, NTP; Qualisys Track Manager 2021.
 ---
 
