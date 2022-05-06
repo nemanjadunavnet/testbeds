@@ -1,5 +1,5 @@
 ---
-short_name: unimurciagaia
+short_name: GAIA-5G
 name: Universidad de Murcia Gaia-5G
 testbed_url: https://ants.inf.um.es/en/gaialab
 provider_logo: logos/bovlabs.png
