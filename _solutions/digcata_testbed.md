@@ -1,10 +1,5 @@
 ---
-short_name: digcata
-name: Digital Catapult Future Networks Lab
-testbed_url: 
 
-use-cases: n.a
-contact: Maria Fonseca, Proposal Manager, Collaborative RD: maria.fonseca@digicatapult.org.uk
 license: n.a
 partner_access: Yes
 testbed_stage: Testbeds
