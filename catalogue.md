@@ -63,7 +63,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
        <td colspan="6"><strong>Description:</strong> {{ solution.description}}</td>
       </tr>
       <tr>
-      <td colspan="6"><strong> ><img src="{{ solution.descriptionimage }}" alt="{{ solution.provider }}" /></td>
+      <td colspan="6"><img src="{{ solution.descriptionimage }}" alt="{{ solution.provider }}" /></td>
       </tr>
         
       <tr>
