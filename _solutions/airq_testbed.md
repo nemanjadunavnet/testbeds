@@ -2,7 +2,6 @@
 short_name: airq
 name: AIRQ DAO
 testbed_url: https://www.airqdao.eu
-provider_logo: -
 city_country: Brussels, Belgium
 domains: Smart cities, Climate action
 use-cases: Autonomous system – Air quality sensor network
