@@ -1,5 +1,5 @@
 ---
-short_name: oulu
+short_name: OULU 5G/6G
 name: Oulu University 5G/6G Test Network
 testbed_url: https://www.oulu.fi/university/news/5g-6g-test-network
 provider_logo: logos/oulu.jpeg logos/oulu2.jpg
