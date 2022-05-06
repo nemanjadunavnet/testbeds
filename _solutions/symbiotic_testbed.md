@@ -1,6 +1,6 @@
 ---
 short_name: Symbiotic
-name: SymbIoTic IoT Flood Monitoring Use-case
+name: AIOTI DLT 1.08 SymbIoTic IoT Flood Monitoring Use-case
 testbed_url: https://symbiotic.hr
 provider_logo: logos/ccc.png
 city_country: Bjelovar, Croatia
