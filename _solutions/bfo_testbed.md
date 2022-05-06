@@ -1,5 +1,5 @@
 ---
-short_name: BFO
+short_name: BFO DAO
 name: Blue future Organization DAO
 testbed_url: https://www.thebluefuture.org
 provider_logo: logos/bluefutureorganization.png
