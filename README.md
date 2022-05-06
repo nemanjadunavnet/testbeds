@@ -6,4 +6,4 @@ The main goal of the catalogue is to act as a dissemination tool towards other A
 
 This Github Pages repository serves the catalogue of AIOTI members to demonstrate the work relevant for the Urban Society needs.
 
-**Catalogue available at https://aiotieu.github.io/testbeds/**
+**Catalogue available at https://aiotieu.github.io/testbeds/catalogue.html**
