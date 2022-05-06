@@ -2,7 +2,7 @@
 short_name: OULU 5G/6G
 name: Oulu University 5G/6G Test Network
 testbed_url: https://www.oulu.fi/university/news/5g-6g-test-network
-provider_logo: logos/oulu.jpeg logos/oulu2.jpg
+provider_logo: logos/oulu.jpeg
 city_country: Oulu, Finland
 domains: ICT; Energy; Manufacturing
 use-cases: Wireless connectivity and beyond for Smart Campus, Energy, Smart Living, Robotics, ITS and other verticals
