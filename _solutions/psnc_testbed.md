@@ -7,7 +7,7 @@ city_country: Poznan, Poland
 domains: Smart Cities, Health, Agriculture
 use-cases: Smart Campus, Smart Spaces, Smart Parking, Smart Vending, Smart Farming
 contact: marcinp@man.poznan.pl
-license: -
+license: n.a.
 partner_access: Yes
 testbed_stage: Testbeds
 description: PSNC FutureLabs are the living labs in education, eHealth, smart City. Each of the labs provides different kinds of technologies, etc. PIONIER-lab - is the largest Polish Research Infrastructure roadmap project, with one of the laboratories - Smart Campus as Smart City. It builds the testbed of 12 smart campuses in Poland, with thousands of sensors and infrastructure around smart spaces, parking, monitoring, energy, and others. The testbed will be available through the IoT/edge platforms for experimentation.
