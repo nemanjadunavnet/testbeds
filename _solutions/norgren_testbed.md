@@ -1,5 +1,5 @@
 ---
-short_name: Norgren
+
 name: Norgren Smart Pneumatic Valve Island Use-case
 testbed_url: 
 provider_logo: logos/norgren.png
