@@ -18,4 +18,8 @@ This Github Pages repository serves the catalogue of AIOTI members to demonstrat
 6. If you want to add a logo, place it under logos.
 7. One image can be provided, place it under images.
 
+## AIOTI Testbeds Catalogue, Meta-data
+
+See the sample.md file.
+The attributes there must be strictly followed, so that your testbed can be adequately listed.
 
