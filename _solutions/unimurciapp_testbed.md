@@ -2,7 +2,7 @@
 short_name: unimurciapp
 name: Universidad de Murcia Gaia-5G
 testbed_url: https://ants.inf.um.es/en/gaialab
-provider_logo: -
+provider_logo: 
 city_country: Murcia, Spain
 domains: Smart cities, Privacy-preserving Identity Management
 use-cases: Chain-enabled PP-IDM
