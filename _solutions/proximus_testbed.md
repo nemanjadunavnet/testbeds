@@ -7,7 +7,7 @@ city_country: Brussels, Belgium
 domains: Smart cities, smart retail
 use-cases: People counting, occupancy detection, crowd management, vehicle detection, sound analytics
 contact: Anissa Sefsaf
-license: -
+license: n.a.
 partner_access: Yes
 testbed_stage: Testbeds
 description: The Proximus Testbed is set to demonstrate the usage of video analytics and mmWave technology to detect line crossing, people counting, loitering and spill detection, occupancy measurements, crowd estimation and vehicle detection. On top of that, people can be categorized as male or female and adults vs. kids. By measuring the speed and walking direction, we can determine if passers-by are motorized or by foot. Using sound sensors, we can deliver sound analytics categorization like vehicle detection, glass breaking detection, etc. The generated data is displayed on a customized dashboard using a trustworthy interface to prove the correctness of the data.
