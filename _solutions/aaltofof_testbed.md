@@ -7,7 +7,7 @@ city_country: Helsinki, Finland
 domains: Manifacturing, energy, agriculture, mobility, logistics
 use-cases: Predictive maintenance, human robot interaction, collaborative robots, flexible production, Low electric vehicles.
 contact: Dr Udayanto Dwi Atmojo udayanto.atmojo@aalto.fi, Prof. Valeriy Vyatkin valeriy.vyatkin@aalto.fi
-license: https://version.aalto.fi/gitlab/afof
+license: [open-source](https://version.aalto.fi/gitlab/afof)
 partner_access: partner access feasible
 testbed_stage: Testbeds
 description: The Aalto Factory of the Future 1 is a facility for innovation and education of future industrial automation, industry 4.0 and beyond. It is a space shared by humans, robots, and production stations, which serves as a platform for projects in advanced information technologies applied to future production systems. It focuses on achieving revolutionary high flexibility by exploiting the architecture of modular autonomous intelligent production units. We have access to enabling technologies for production systems that include AI, IIoT, wireless (5G, Wi-Fi 6, LoraWAN) connected to Aalto 5G Test Network, edge/fog/cloud computing paradigms, VR/AR
