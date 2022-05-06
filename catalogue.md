@@ -45,7 +45,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
       {% for solution in site.solutions %}
       <tr>
         <td width=10%><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}<br> {{ solution.name }}</a></strong></td>
-        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}"/>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
+        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=150/>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
         <td>{{ solution.domains}}</td>
         <td>{{ solution.use-cases}}</td>
           <td><b>License:</b> {{ solution.license}} <br> <b>Access:</b> {{ solution.partner_access}}</td>
