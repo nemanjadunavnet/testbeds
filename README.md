@@ -4,6 +4,9 @@ The focus of the **[AIOTI](https://aioti.eu) [Testbeds IG group](https://aioti.e
 
 The main goal of the catalogue is to act as a dissemination tool towards other AIOTI groups, and to assist in the development of coordinated efforts, e.g., use-case demonstrations, new testbed development.
 
+Reference deliverables of the group can be found in AIOTI, [here](https://aioti.eu/resources/testbeds-resources/)
+
+
 This Github Pages repository serves the catalogue of AIOTI members to demonstrate the work relevant for the Urban Society needs.
 
 **Catalogue available at https://aiotieu.github.io/testbeds/catalogue.html**
