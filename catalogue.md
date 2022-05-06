@@ -52,6 +52,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
         <td>{{ solution.testbed_stage}}</td>
       </tr>
       <tr>
+          
        <td colspan="6"><strong>Description:</strong> {{ solution.description}}</td>
       </tr>
       <tr>
@@ -62,6 +63,9 @@ If you need to return to the main page, just follow [**this link**](./index.html
             <td colspan="3"><strong>Hardware</strong> {{ solution.hardware}}</td>
             <td colspan="3"><strong>Software</strong> {{ solution.software}}</td>
       </tr>
+         <tr>
+              <td colspan="6" bgcolor=black></td>
+             </tr>
       {% endfor %}
     </tbody>
   <!-- 
