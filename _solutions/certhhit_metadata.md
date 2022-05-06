@@ -1,6 +1,6 @@
 ---
-short_name: certhhit
-name: CERTH/HIT Thessaloniki Smart Mobility Living Lab
+short_name: CERTH-HIT SMARTMLAB
+name: CERTH-HIT Thessaloniki Smart Mobility Living Lab
 testbed_url: https://www.smartmlab.imet.gr/
 provider_logo: logos/certh1.png logos/certh2.png
 city_country: Thessaloniki, Greece
