@@ -5,6 +5,5 @@ testbed_url:
 city_country: United Kingdom
 domains: Smart Cities, Health
 use-cases: n.a
-contact: Maria Fonseca, Proposal Manager, Collaborative RD: maria.fonseca@digicatapult.org.uk
 
 ---
