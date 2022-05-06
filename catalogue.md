@@ -29,7 +29,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
 
 ### AIOTI IG Testbeds Catalogue
 
-<table id="catalogue" class="display" style="width: 100%">
+<table id="catalogue" class="display" style="width: 800px">
     <thead>
       <tr>
         <th>Name</th>
