@@ -1,6 +1,6 @@
 ---
-short_name: airq
-name: AIRQ DAO
+short_name: AIRQ DAO
+name: AIRQ DAO Foundation vzw
 testbed_url: https://www.airqdao.eu
 city_country: Brussels, Belgium
 domains: Smart cities, Climate action
