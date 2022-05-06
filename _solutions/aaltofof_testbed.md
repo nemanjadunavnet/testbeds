@@ -5,7 +5,7 @@ testbed_url: https://www.aalto.fi/en/futurefactory
 provider_logo: logos/aalto1.png
 city_country: Helsinki, Finland
 domains: Manifacturing, energy, agriculture, mobility, logistics
-
+use-cases: Predictive maintenance, human robot interaction, collaborative robots, flexible production, Low electric vehicles.
 contact: Dr Udayanto Dwi Atmojo udayanto.atmojo@aalto.fi, Prof. Valeriy Vyatkin valeriy.vyatkin@aalto.fi
 license: Open research software https://version.aalto.fi/gitlab/afof
 partner_access: Yes
