@@ -1,5 +1,5 @@
 ---
-short_name: linksDH
+short_name: LINKS DLT DH
 name: Links DLT Digital Handshake
 testbed_url: https://medium.com/overtheblock/fighting-uncertainty-a-decentralized-solution-for-transparent-and-frictionless-digital-handshakes-553de1dfc852
 provider_logo: logos/linksfoundation.png
