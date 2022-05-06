@@ -29,65 +29,90 @@ If you need to return to the main page, just follow [**this link**](./index.html
 ### AIOTI IG Testbeds Catalogue
 
 <table id="catalogue" class="display" style="width: 1200px">
-    <thead>
-      <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th> 
-     </tr>
-    </thead>
-    <tbody>
-      <!--For loop that iterates over markdown frontmatter in _skus folder-->
+	<thead>
+		<tr>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		<!--For loop that iterates over markdown frontmatter in _skus folder-->
       {% for solution in site.solutions %}
-      <tr>
-        <td>Name</td>
-        <td>Provider</td>
-        <td>Domains</td>
-        <td>Use-cases</td>
-        <td>Access</td>
-        <td>Testbed stage</td> 
-     </tr>
-      <tr>
-        <td><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}<br> {{ solution.name }}</a></strong></td>
-        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=150/><br>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
-        <td>{{ solution.domains}}</td>
-        <td>{{ solution.use-cases}}</td>
-          <td><b>License:</b> {{ solution.license}} <br> <b>Access:</b> {{ solution.partner_access}}<br> <b>Contact:</b> {{ solution.contact}}</td>
-        <td>{{ solution.testbed_stage}}</td>
-      </tr>
-      <tr>
-          
-       <td colspan="6"><strong>Description:</strong> {{ solution.description}}</td>
-      </tr>
-      <tr>
-      <td colspan="6"><img src="{{ solution.descriptionimage }}" alt="{{ solution.provider }}" /></td>
-      </tr>
-        
-      <tr>
-        <td colspan="3"><strong>Concept:</strong> {{ solution.concept}}</td>
-        <td colspan="3"><strong>Technology</strong>: {{ solution.technology}}</td>
-      </tr>
-        <tr>
-            <td colspan="3"><strong>Hardware</strong> {{ solution.hardware}}</td>
-            <td colspan="3"><strong>Software</strong> {{ solution.software}}</td>
-      </tr>
-         <tr>
-         <td colspan="6" bgcolor=black>  </td>
-       </tr>
+      
+		<tr>
+			<td>Name</td>
+			<td>Provider</td>
+			<td>Domains</td>
+			<td>Use-cases</td>
+			<td>Access</td>
+			<td>Testbed stage</td>
+		</tr>
+		<tr>
+			<td>
+				<strong>
+					<a href="{{ solution.testbed_url }}">{{ solution.short_name }}
+						<br> {{ solution.name }}
+						</a>
+					</strong>
+				</td>
+				<td>
+					<a href="{{ solution.testbed_url }}">
+						<img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=150/>
+						<br>{{ solution.provider}} 
+							<br>
+								<b>Location:</b> {{ solution.city_country}}
+							</a>
+						</td>
+						<td>{{ solution.domains}}</td>
+						<td>{{ solution.use-cases}}</td>
+						<td>
+							<b>License:</b> {{ solution.license}} 
+							<br>
+								<b>Access:</b> {{ solution.partner_access}}
+								<br>
+									<b>Contact:</b> {{ solution.contact}}
+								</td>
+								<td>{{ solution.testbed_stage}}</td>
+							</tr>
+							<tr>
+								<td colspan="6">
+									<strong>Description:</strong> {{ solution.description}}
+								</td>
+							</tr>
+							<tr>
+								<td colspan="6">
+									<img src="{{ solution.descriptionimage }}" alt="{{ solution.provider }}" />
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3">
+									<strong>Concept:</strong> {{ solution.concept}}
+								</td>
+								<td colspan="3">
+									<strong>Technology</strong>: {{ solution.technology}}
+								</td>
+							</tr>
+							<tr>
+								<td colspan="3">
+									<strong>Hardware</strong> {{ solution.hardware}}
+								</td>
+								<td colspan="3">
+									<strong>Software</strong> {{ solution.software}}
+								</td>
+							</tr>
+							<tr>
+								<td colspan="6" bgcolor=black></td>
+							</tr>
       {% endfor %}
-    </tbody>
-  <!-- 
-    <tfoot>
-      <tr>
-        <th>Name</th>
-        <th>Position</th>
-        <th>Description</th>
-      </tr>
-    </tfoot> -->
-  </table>
+    
+						</tbody>
+						<!-- 
+    <tfoot><tr><th>Name</th><th>Position</th><th>Description</th></tr></tfoot> -->
+					</table>
 
 
 ## Contribute to our Portfolio!
