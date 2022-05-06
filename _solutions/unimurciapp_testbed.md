@@ -1,6 +1,6 @@
 ---
-short_name: unimurciapp
-name: Universidad de Murcia Gaia-5G
+short_name: PP-IDM
+name: Universidad de Murcia PP-IDM
 testbed_url: https://ants.inf.um.es/en/gaialab
 provider_logo: 
 city_country: Murcia, Spain
