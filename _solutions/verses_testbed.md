@@ -1,5 +1,5 @@
 ---
-short_name: Verses
+short_name: VERSES
 name: Verses DLT HSTP Spatial Web
 testbed_url: https://www.ff2020.eu/
 provider_logo: logos/verses.png
