@@ -83,7 +83,7 @@ Browse the solutions provided by AIOTI members in the table.
 							</tr>
 							<tr>
 								<td colspan="6">
-									<img src="{{ solution.descriptionimage }}" alt="{{ solution.provider }}" width=400 />
+									<img src="{{ solution.descriptionimage }}" alt="{{ solution.provider }}" width=400px />
 								</td>
 							</tr>
 							<tr>
