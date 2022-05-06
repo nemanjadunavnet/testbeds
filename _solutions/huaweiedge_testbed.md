@@ -1,5 +1,5 @@
 ---
-short_name: huaweiedge
+short_name: HUAWEI EDGE
 name: Huawei Edge Computing OPC UA over TSN Testbed
 testbed_url: https://www.iis.fraunhofer.de/en/profil/standorte/linkhalle.html
 provider_logo: logos/huawei1.png logos/huawei2.png 
