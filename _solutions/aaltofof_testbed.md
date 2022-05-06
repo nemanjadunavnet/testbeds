@@ -1,5 +1,5 @@
 ---
-short_name: aaltofof
+short_name: Aalto
 name: Aalto University Factory of the Future
 testbed_url: https://www.aalto.fi/en/futurefactory
 provider_logo: logos/aalto1.png
