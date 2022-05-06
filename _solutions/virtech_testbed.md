@@ -12,7 +12,7 @@ partner_access: Yes
 testbed_stage: Testbeds
 description: Experimental living lab facilities in smart energy, smart buildings, active and healthy aging, e-health, sustainable development, smart mobility (e.g., smart EV charging).
 concept: Big Data and AI enhanced smart services, GDPR compliant data exchange, interoperability.
-technology: Open-source platforms: FIWARE, openHAB, dataU
+technology: Open-source platforms, e.g., FIWARE, openHAB, dataU
 hardware: Tablets, scanners, 3Dd Oculus Rift glasses
 software: VR/AR edutainment, game design tools; 2D and 3D games
 ---
