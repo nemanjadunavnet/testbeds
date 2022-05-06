@@ -1,5 +1,5 @@
 ---
-short_name: Synelixis
+short_name: Synelixis IoT
 name: Synelixis IoT Solutions
 testbed_url: https://www.synelixis.com/internet-of-things/
 provider_logo: logos/synelixis.jpeg
