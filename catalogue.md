@@ -31,10 +31,13 @@ If you need to return to the main page, just follow [**this link**](./index.html
 
 <table id="catalogue" class="display" style="width: 1000px">
     <thead>
-     
-       <tr>
-              <td colspan="6" bgcolor=black></td>
-             
+      <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th> 
      </tr>
     </thead>
     <tbody>
