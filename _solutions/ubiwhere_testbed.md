@@ -1,5 +1,5 @@
 ---
-short_name: ubiwhere
+short_name: UBIWHERE NSL LAB
 name: Ubiwhere Nervous System Living Lab
 testbed_url: https://city-nervous-system.ubiwhere.com/
 provider_logo: logos/ubiwhere.png
