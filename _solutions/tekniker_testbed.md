@@ -1,5 +1,5 @@
 ---
-short_name: tekniker
+short_name: TEKNIKER SFHUB
 name: Tekniker Smart Factory Hub
 testbed_url: https://smartfactorycell.tekniker.es/
 provider_logo: logos/tekniker.png
