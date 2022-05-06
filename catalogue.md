@@ -43,6 +43,14 @@ If you need to return to the main page, just follow [**this link**](./index.html
     <tbody>
       <!--For loop that iterates over markdown frontmatter in _skus folder-->
       {% for solution in site.solutions %}
+          <tr>
+        <th>Name</th>
+        <th>Provider</th>
+        <th>Domains</th>
+        <th>Use-cases</th>
+        <th>Access</th>
+        <th>Testbed stage</th> 
+     </tr>
       <tr>
         <td><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}<br> {{ solution.name }}</a></strong></td>
         <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=150/>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
