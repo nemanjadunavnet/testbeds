@@ -29,7 +29,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
 
 ### AIOTI IG Testbeds Catalogue
 
-<table id="catalogue" class="display" style="width: 1000px">
+<table id="catalogue" class="display" style="width: 100%">
     <thead>
       <tr>
         <th>Name</th>
@@ -44,7 +44,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
       <!--For loop that iterates over markdown frontmatter in _skus folder-->
       {% for solution in site.solutions %}
       <tr>
-        <td><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}, {{ solution.name }}</a></strong></td>
+        <td width=10%><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}<br> {{ solution.name }}</a></strong></td>
         <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}"/>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
         <td>{{ solution.domains}}</td>
         <td>{{ solution.use-cases}}</td>
