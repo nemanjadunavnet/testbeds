@@ -1,5 +1,5 @@
 ---
-short_name: upmiitc
+short_name: UPM IoT Tactical Cloud
 name: UPM Integration of IoT with Tactical Cloud
 testbed_url: https://iptc.upm.es/facilities-and-technological-and-scientific-services
 provider_logo: n.a.
