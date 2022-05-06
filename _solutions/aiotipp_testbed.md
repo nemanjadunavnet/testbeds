@@ -7,7 +7,7 @@ city_country: Belgium
 domains: Cross-domain
 use-cases: Industrial implementations
 contact: tom@viniblock.com
-license: -
+license: n.a.
 partner_access: Yes
 testbed_stage: proof of concept
 description: Distributed Ledger Technologies (DLT) has emerged with the promise to establish trust and enable new business models on autonomous systems. The exact implementation and performance of the many available DLT protocols still remains to be formally assessed. Therefore, the AIOTI DLT working group agreed to set-up a series of DLT 2.xx Testbeds for the systematic and objective evaluation of different protocols currently considered market ready.
