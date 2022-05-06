@@ -1,5 +1,5 @@
 ---
-short_name: polimi
+short_name: POLIMI I4.0 LAB
 name: Politecnico di Milano Industry 4.0 Lab
 testbed_url: https://www.industry40lab.org/
 provider_logo: logos/industry40.png
