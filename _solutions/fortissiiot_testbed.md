@@ -1,6 +1,6 @@
 ---
-short_name: fortissiiot
-name: fortiss Lab Industrial IoT
+short_name: fortiss IIoT
+name: fortiss Industrial IoT Lab
 testbed_url: https://www.fortiss.org/en/research/living-lab/detail/iiot-lab
 provider_logo: logos/fortiss.png
 city_country: Munich, Germany
