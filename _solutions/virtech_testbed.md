@@ -1,6 +1,6 @@
 ---
-short_name: virtech
-name: Virtech SofiaLab
+short_name: VIRTECH
+name: Virtech Sofi aLab
 testbed_url: https://sofia-da.eu/en/
 provider_logo: 
 city_country: Sofia, Bulgaria
