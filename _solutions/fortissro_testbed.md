@@ -1,6 +1,6 @@
 ---
-short_name: fortissro
-name: fortiss Lab Robotics
+short_name: fortiss ROBLAB
+name: fortiss Robotics Lab
 testbed_url: https://www.fortiss.org/en/research/living-lab/detail/acra4dt
 provider_logo: logos/fortiss.png
 city_country: Munich, Germany
