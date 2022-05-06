@@ -1,5 +1,5 @@
 ---
-short_name: upmsc
+short_name: UOM SMART CITIES
 name: UPM Smart City spaces of the Future
 testbed_url: https://iptc.upm.es/facilities-and-technological-and-scientific-services
 provider_logo: n.a.
