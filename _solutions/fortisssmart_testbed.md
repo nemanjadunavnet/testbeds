@@ -1,6 +1,6 @@
 ---
-short_name: fortisssmart
-name: fortiss Lab Smart Energy
+short_name: fortiss S-ENERGY
+name: fortiss  Smart Energy Lab
 testbed_url: https://www.fortiss.org/en/research/living-lab/detail/smart-energy-living-lab
 provider_logo: logos/fortiss.png
 city_country: Munich, Germany
