@@ -1,5 +1,5 @@
 ---
-short_name: videosys
+short_name: APICUS
 name: Video Systems APICUS-PLT
 testbed_url: https://www.videosystems.it/en
 provider_logo: logos/videosystems.png
