@@ -113,7 +113,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
 						<!-- 
     <tfoot><tr><th>Name</th><th>Position</th><th>Description</th></tr></tfoot> -->
 					</table>
-
+<br><br>
 
 ## Contribute to our Portfolio!
 
