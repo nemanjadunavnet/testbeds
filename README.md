@@ -7,3 +7,15 @@ The main goal of the catalogue is to act as a dissemination tool towards other A
 This Github Pages repository serves the catalogue of AIOTI members to demonstrate the work relevant for the Urban Society needs.
 
 **Catalogue available at https://aiotieu.github.io/testbeds/catalogue.html**
+
+
+## AIOTI Members - How to Contribute
+1. copy the sample.md file to _solutions.
+2. rename the _solutions/sample.md to the name of your platform with the format provider_testbedacronym.md
+3. fill in all the meta-data (see meta-data of the AIOTI Testbeds Catalogue)
+4. Ensure you follow markdown rules, e.g., in text avoid the character ':' (recognized as a separator field) and also isolated '-'.
+5. Save your file. If all is fine you will see a table format; if there is some error, only markdown is visible.
+6. If you want to add a logo, place it under logos.
+7. One image can be provided, place it under images.
+
+
