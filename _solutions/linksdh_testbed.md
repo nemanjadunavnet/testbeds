@@ -15,5 +15,5 @@ description: The AIOTI DLT 1.10 LINKS DIGITAL HANDSHAKE Testbed is set to demons
 concept: A blockchain-based solution for making digital handshakes guaranteeing transparency on identity, code, and payments. Building a new form of trust in the digital handshake process (from platform to code) through an EOSIO blockchain-based solution. Fair and decentralized dispute resolution with a pseudo-random selection of jurors for reducing the cost-benefit ratio. Automatic token payments through a decentralized and bulletproof escrow service.
 technology: Smart contracts, tokenization, DLT-based dispute resolution.
 hardware: 
-software: Open Repositories https://github.com/Innovation-Advisory-Links-Foundation/DigitalHandshake-Backend https://github.com/Innovation-Advisory-Links-Foundation/DigitalHandshake-Frontend
+
 ---
