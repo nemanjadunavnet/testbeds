@@ -1,5 +1,5 @@
 ---
-short_name: fraunhoferiis
+short_name: FhG IIS L.I.N.K
 name: Fraunhofer IIS L.I.N.K. - Positioning - Identification - Navigation Communication
 testbed_url: https://www.iis.fraunhofer.de/en/profil/standorte/linkhalle.html
 provider_logo: logos/fraunhoferiis.png
