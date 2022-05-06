@@ -29,7 +29,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
 
 ### AIOTI IG Testbeds Catalogue
 
-<table id="catalogue" class="display" style="width: 1000px">
+<table id="catalogue" class="display" style="width: 1200px">
     <thead>
       <tr>
         <th></th>
@@ -73,7 +73,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
       </tr>
          <tr>
          <td colspan="6" bgcolor=black></td>
-          </tr>
+       </tr>
       {% endfor %}
     </tbody>
   <!-- 
