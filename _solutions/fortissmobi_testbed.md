@@ -1,5 +1,5 @@
 ---
-short_name: fortissmobi
+short_name: fortiss MLAB
 name: fortissimo Mobility Lab
 testbed_url: https://www.fortiss.org/en/research/living-lab/detail/fortissimo
 provider_logo: logos/fortiss.png
