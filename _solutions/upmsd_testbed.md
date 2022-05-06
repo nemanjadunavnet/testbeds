@@ -1,19 +1,19 @@
 ---
-short_name: upmiitc
+short_name: UPM SMART DRONES
 name: UPM Integration of IoT with Tactical Cloud
 testbed_url: https://iptc.upm.es/facilities-and-technological-and-scientific-services
 provider_logo: n.a.
 city_country: Madrid, Spain
-domains: Smart Cities, Transport, Security and Defense
-use-cases: Disaster recovery, security, surveillance
+domains: Security, Manufacturing, Logistics, Transports
+use-cases: Smart drones, UAVs, Security, Logistics
 contact: anamaria.bernardos@upm.es
 license: Varies depending on the components used and activities – contact for more information.
-partner_access: Yes
+partner_access: feasible
 testbed_stage: Testbeds
-description: Tactical Edge environments are those such as disaster scenarios or battlefields in which professionals (e.g., emergency first-responders, firemen or soldiers) usually have limited computing and communication resources, while having to deal with situations that evolve rapidly and unpredictably and high level of stress and need for risk control. The more and more, professionals are equipped with wearable IoT systems, both for self-control, situation assessment and information retrieval. There is a need for virtualizing resources and embedded them in specific tactical architectures that cannot be configured as a standard-cloud centralized service, but on edge and in a distributed manner. In this demonstration, hierarchical data processing for a defense use case, where the soldier wears a smart helmet connected to a tactical cloud architecture, that enables to receive data from external sensors (embedded in drone platforms, vehicles, etc.) in a communications environment that is continuously modified. A prototype of the installation is built for the European Defense Agency, but multiple applications for Law Enforcement Agencies and other partners are feasible.
-concept: Wearable IoT, Edge computing, resilient networks. 
-technology: Data fusion, artificial vision, microservices architectures, IoT
-hardware: AR wearable helmet (HoloLens), routers, servers, ultra-wall (3x3 screens), wearable stress sensors, mobile devices.
-software: MQTT, Kafka, Docker, MongoDB, Python, cloud services, OpenCV.
+description: This testbed deployed in Montegancedo Campus is ready to demonstrate services deployed over fleet of drones (demos are carried out with >3 drones). The key asset is the software platform that controls the fleet service lifecycle, from mission configuration to real-time data visualization and sensor-based anomaly detection. Drones are governed as IoT sensing platforms, equipped with in-flight sensors, environmental sensors, and specific cameras (thermal cameras, LiDAR, etc.), mounted in depending on the use case. Different service scenarios have been deployed over the platform: infrastructure monitoring (e.g., for telecom towers), emergency response (for onsite fast evaluation of an emergency and first-aid kit delivery) and security applications (capacity control in bounded areas). Real-time artificial vision algorithms on-board and on the edge are used to monitor the service. Monitoring tools include specific applications for mobile devices, but also interactive solutions for command-and-control centers.
+concept: Drone fleet management & automation, real-time sensing. 
+technology: Data fusion, artificial intelligence, artificial vision, optimization algorithms, tracking and navigation, adaptive interfaces.
+hardware: Drones, mobile devices, thermal cameras, LiDAR, ultra-wall.
+software: MQTT, Kafka, Docker, MongoDB, Python, cloud services, OpenCV
 ---
 
