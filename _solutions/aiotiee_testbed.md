@@ -1,6 +1,6 @@
 ---
 short_name: AIOTI DLT 3.xx
-name: AIOTI DLT 3.xx Energy Efficiency
+name: DLT Energy Efficiency
 testbed_url: https://www.aioti.eu
 provider_logo: logos/aioti-logo.jpg
 city_country: Belgium
