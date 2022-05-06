@@ -2,7 +2,7 @@
 short_name: HUAWEI EDGE
 name: Huawei Edge Computing OPC UA over TSN Testbed
 testbed_url: https://www.iis.fraunhofer.de/en/profil/standorte/linkhalle.html
-provider_logo: logos/huawei1.png logos/huawei2.png 
+provider_logo: logos/huawei1.png 
 city_country: Munich and Berlin, Germany
 domains: Manifacturing
 use-cases: TSN based OT and IT converged industrial automation networks; IEC 61499 and TSN for smart manufacturing; Edge-Cloud Synergy AI (Kubeedge, Atlas etc.)
