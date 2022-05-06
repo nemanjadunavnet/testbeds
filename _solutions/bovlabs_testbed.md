@@ -9,7 +9,7 @@ city_country: Turin, Italy
 domains: Energy, mobility
 use-cases: <a href="https://www.v2g-hub.com/projects/solarcamp/">Solarcamp project</a>
 contact: JK +82 1068276562, +33 767527808, Fabien +33 675137770
-license: Specific contract with the Camp/SNCF G&C
+license: Specific contract with the Camp/SNCF G/&C
 partner_access: Public project with simulators
 testbed_stage: proof of concept
 description: The Bovlabs PoC is set to demonstrate Ethereum Blockchain. Proof of Authority Based Consensus; 3 million transactions recorded in the first project; 450 transactions per second are supported; Smart agents uses light nodes to transact energy transactions; Smart contracts used for trade and execution (written using Solidity); ERC 20 Tokens used for transacting energy peer to peer. 
