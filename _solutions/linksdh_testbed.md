@@ -7,7 +7,7 @@ provider_logo: logos/linksfoundation.png
 city_country: Turin, Italy
 domains: Society
 use-cases: A decentralized solution for transparent and frictionless digital handshakes
-contact: Alfredo.favenza@linksfoundation.com Giacomo.corrias@linksfoundation.com
+contact: Alfredo.favenza@linksfoundation.com, Giacomo.corrias@linksfoundation.com
 license: No
 partner_access: Yes
 testbed_stage: proof of concept
