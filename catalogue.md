@@ -44,12 +44,12 @@ If you need to return to the main page, just follow [**this link**](./index.html
       {% for solution in site.solutions %}
       
 		<tr>
-			<td>Name</td>
-			<td>Provider</td>
-			<td>Domains</td>
-			<td>Use-cases</td>
-			<td>Access</td>
-			<td>Testbed stage</td>
+			<td><b>Name</b></td>
+			<td><b>Provider</b></td>
+			<td><b>Domains</b></td>
+			<td><b>Use-cases</b></td>
+			<td><b>Access</b></td>
+			<td><b>Testbed stage</b></td>
 		</tr>
 		<tr>
 			<td>
