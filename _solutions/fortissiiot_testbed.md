@@ -4,10 +4,10 @@ name: fortiss Industrial IoT Lab
 testbed_url: https://www.fortiss.org/en/research/living-lab/detail/iiot-lab
 provider_logo: logos/fortiss.png
 city_country: Munich, Germany
-domains: Manifacturing, Energy, Smart Cities, Logistics, etc.
+domains: Manufacturing, Energy, Smart Cities, Logistics, etc.
 use-cases: BFThing (OT-IT automated integration); TSMatch (IoT data to service automated matching); TSNWiFi (Wired/Wi-Fi 6 industrial networking with TSN capabilities); Mobilek8s (Dynamic container orchestration); IoT-ICN (Decentralised Publish-Subscribe Communication for IoT)
 contact: Rute C. Sofia, sofia@fortiss.org
-license: Eclipse, GPLv2, GPLv3
+license: open-source, Eclipse, GPLv2, GPLv3, MIT
 partner_access: Yes, locally, and remotely
 testbed_stage: Testbeds
 description: The IIoT Lab has as motivation to be an experimental and training interoperable and open playground for fortiss, and for partners (academia and industry). The IIoT Lab comprises a set of demonstrators that, interconnected, provide an end-to-end perspective of mechanisms that are useful in the context of Industrial IoT. The aim of the concepts integrated in the lab relate to the exploration of novel communication and computation architectures to deploy and orchestrate heterogeneous and decentralized services and resources efficiently, robustly, and possibly predictively.
