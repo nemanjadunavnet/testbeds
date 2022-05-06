@@ -1,5 +1,5 @@
 ---
-short_name: fortissneu
+short_name: fortiss NMLAB
 name: fortiss Neuromorphic Lab
 testbed_url: https://www.fortiss.org/forschung/forschungsfelder/detail/neuromorphic-computing
 provider_logo: logos/fortiss.png
