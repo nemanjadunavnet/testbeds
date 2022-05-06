@@ -1,6 +1,6 @@
 ---
-short_name: itidata
-name: ITI DATAROOM
+short_name: ITI DATAROOM
+
 testbed_url: https://www.iti.es/noticias/iti-inaugura-el-primer-centro-demostrador-del-pais-especializado-en-datos-para-la-industria-4-0/
 provider_logo: logos/iti.png
 city_country: Valencia, Spain
