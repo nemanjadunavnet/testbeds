@@ -63,6 +63,10 @@ If you need to return to the main page, just follow [**this link**](./index.html
           
        <td colspan="6"><strong>Description:</strong> {{ solution.description}}</td>
       </tr>
+         <tr>
+          
+       <td colspan="6"><strong> {{ solution.descriptionimage}}</td>
+      </tr>
       <tr>
         <td colspan="3"><strong>Concept:</strong> {{ solution.concept}}</td>
         <td colspan="3"><strong>Technology</strong>: {{ solution.technology}}</td>
