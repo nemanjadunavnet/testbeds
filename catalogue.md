@@ -53,7 +53,7 @@ If you need to return to the main page, just follow [**this link**](./index.html
      </tr>
       <tr>
         <td><strong><a href="{{ solution.testbed_url }}">{{ solution.short_name }}<br> {{ solution.name }}</a></strong></td>
-        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=150/>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
+        <td><a href="{{ solution.testbed_url }}"><img src="{{ solution.provider_logo }}" alt="{{ solution.provider }}" width=150/><br>{{ solution.provider}} <br> <b>Location:</b> {{ solution.city_country}}</a></td>
         <td>{{ solution.domains}}</td>
         <td>{{ solution.use-cases}}</td>
           <td><b>License:</b> {{ solution.license}} <br> <b>Access:</b> {{ solution.partner_access}}<br> <b>Contact:</b> {{ solution.contact}}</td>
@@ -64,8 +64,9 @@ If you need to return to the main page, just follow [**this link**](./index.html
        <td colspan="6"><strong>Description:</strong> {{ solution.description}}</td>
       </tr>
       <tr>
-      <td colspan="6"><strong> tt {{ solution.descriptionimage}} </td>
+      <td colspan="6"><strong> ><img src="{{ solution.descriptionimage }}"/></td>
       </tr>
+        
       <tr>
         <td colspan="3"><strong>Concept:</strong> {{ solution.concept}}</td>
         <td colspan="3"><strong>Technology</strong>: {{ solution.technology}}</td>
