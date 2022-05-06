@@ -2,7 +2,7 @@
 short_name: virtech
 name: Virtech SofiaLab
 testbed_url: https://sofia-da.eu/en/
-provider_logo: -
+provider_logo: 
 city_country: Sofia, Bulgaria
 domains: Smart Cities, Energy, Health
 use-cases: smart city, energy efficiency, smart buildings, active and healthy aging, e-health, sustainable development, e-mobility
