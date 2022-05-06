@@ -1,6 +1,6 @@
 ---
-short_name: aiotipp
-name: AIOTI DLT 2.xx Protocol performance
+short_name: AIOTI DLT 2.xx
+name: DLT Protocol performance
 testbed_url: https://www.aioti.eu
 provider_logo: logos/aioti-logo.jpg
 city_country: Belgium
