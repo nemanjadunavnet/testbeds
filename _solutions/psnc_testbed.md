@@ -1,5 +1,5 @@
 ---
-short_name: psnc
+short_name: PSNC FNLABS
 name: PSNC Future Labs, Pioner-Lab, Agriculture testbed
 testbed_url: https://futurelabs.psnc.pl/en/projekty/ https://pionier-lab.pionier.net.pl/laby/
 provider_logo: logos/psnc.png
