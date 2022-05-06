@@ -2,7 +2,7 @@
 short_name: upmsc
 name: UPM Smart City spaces of the Future
 testbed_url: https://iptc.upm.es/facilities-and-technological-and-scientific-services
-provider_logo: -
+provider_logo: n.a.
 city_country: Madrid, Spain
 domains: Smart Spaces, Sustainability, Smart Healthcare, Tourism, Commerce.
 use-cases: Smart Cities, Smart Living Spaces, Connected Buildings, Flying IoT, Smart Transport, Security and Defense, Emergency Response.
