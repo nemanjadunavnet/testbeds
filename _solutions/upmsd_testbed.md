@@ -2,7 +2,7 @@
 short_name: upmiitc
 name: UPM Integration of IoT with Tactical Cloud
 testbed_url: https://iptc.upm.es/facilities-and-technological-and-scientific-services
-provider_logo: -
+provider_logo: n.a.
 city_country: Madrid, Spain
 domains: Smart Cities, Transport, Security and Defense
 use-cases: Disaster recovery, security, surveillance
