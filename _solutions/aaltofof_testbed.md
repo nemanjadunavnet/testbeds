@@ -7,4 +7,5 @@ city_country: Helsinki, Finland
 domains: Manifacturing, energy, agriculture, mobility, logistics
 use-cases: Smart manufacturing, energy, and agriculture domain use cases: Predictive maintenance, human robot interaction, collaborative robots, flexible production, Low electric vehicles.
 
+---
 
