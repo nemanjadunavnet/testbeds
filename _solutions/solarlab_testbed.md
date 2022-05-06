@@ -14,5 +14,5 @@ description: The Solar Lab is a Net Zero Energy Building (NZEB) that offers cond
 concept: Solar Demonstration Platform
 technology: Solar Lab; IoT platform, Smart Energy components, Smart EV Charging, IEQ sensors, technologies for system flexibility, testing of battery charging states, grid connection tests, local weather forecasting. Solar Demonstration Platform, Organizing 5G testbed, testing, integration.
 hardware: Solar Lab; PV system (11.7 kWp), batteries, EV charger Solar Demonstration Platform, CPV system (4 MWp), solar trackers
-software: Solar Lab; Dynamic Building Audit, P2P energy trading platform. Solar Demonstration Platform, Smart Clean O&M; Optimizing and improving management and prediction of DER; Energy sector digital twin.
+software: Solar Lab; Dynamic Building Audit, P2P energy trading platform. Solar Demonstration Platform, Smart Clean OM; Optimizing and improving management and prediction of DER; Energy sector digital twin.
 ---
