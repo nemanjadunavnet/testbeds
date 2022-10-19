@@ -15,5 +15,5 @@ descriptionimage: images/imecwilabt.png
 concept: key technological blocks supported 
 technology: 802.11a/g/n/ac/ax (WiFi6), 5G, 802.15.4, UWB, mobile AGVs, Edge / Cloud computing
 hardware: Embedded PCs (Zotac, Intel NUC), SuperMicro server, USRP (x310, N210, B200, B210), Zolertia ReMote, 2xLTE femto cells (with EPC core), Android smartphones
-software: mostly proprietary, GNUradio, srsLTE
+software: Ubuntu, ath9/10/11k, Contiki, Linux, TSN, custom drivers, libraries, GNUradio, srsLTE
 ---
