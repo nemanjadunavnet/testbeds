@@ -1,5 +1,5 @@
 ---
-short_name: Smart Highway
+short_name: IMEC Smart Highway
 name: imec Smart Highway Testbed
 testbed_url: 
 provider_logo: logos/imec.png
