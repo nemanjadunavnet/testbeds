@@ -1,5 +1,5 @@
 ---
-short_name: w-iLab.t
+short_name: IMEC w-iLab.t
 name: imec w-iLab.t wireless testbed
 testbed_url: https://idlab.technology/infrastructure/w-ilab-t/
 provider_logo: logos/imec.png
