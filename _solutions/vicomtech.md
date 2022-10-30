@@ -1,5 +1,5 @@
 ---
-short_name: DTROSML
+short_name: VICOMTECH Digital Twin
 name: Digital Twin for Remotely Operated Smart Manufacturing Line
 testbed_url: not available
 provider_logo: logos/vicomtech.png
